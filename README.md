@@ -4,8 +4,12 @@
 ```
 git clone https://github.com/EXTRAS12/django-stripe-API.git/
 ```
-Создайте в папке виртуальное окружение и запустите:
+Перейдите в папку:
+cd django-stripe-API
+
+Создайте виртуальное окружение и запустите:
 python3 -m venv venv
+source venv/bin/activate
 
 Перейдите в корневой каталог проекта:
 ``` 
